@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Gamms
-- 👀 I’m interested in python, big data, ERP solution
-- 🌱 I’m currently learning integration with marketplace
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Gamms/Gamms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm Mikhail Ryzhov
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">ERP, BI and integration solution developer from Russia 🇷🇺</h3>
+<h3 align="center">I am engaged in solutions of any level of complexity</h3>
